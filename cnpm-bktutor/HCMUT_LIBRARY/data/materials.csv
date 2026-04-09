@@ -1,0 +1,27 @@
+subject_name,subject_code,category,type,title,file_url,lecturer
+Giải tích 1,MT1003,Sách & Giáo trình,Lý thuyết,Giáo trình GT1,https://example.com/gt1.pdf,Nguyen A
+Giải tích 1,MT1003,Bài tập,Bài tập,Bài tập chương 1,https://example.com/bt1.pdf,Nguyen A
+Vật lý 1,PH1003,Sách & Giáo trình,Lý thuyết,Giáo trình VL1,https://example.com/vl1.pdf,Tran B
+Giải tích 2,MT1005,Sách & Giáo trình,Lý thuyết,Giáo trình GT2,https://example.com/gt2.pdf,Nguyen A
+Đại số tuyến tính,MT1007,Sách & Giáo trình,Lý thuyết,Giáo trình ĐSTT,https://example.com/dstt.pdf,Le C
+Đại số tuyến tính,MT1007,Bài tập,Bài tập,Bài tập Đại số tuyến tính,https://example.com/dstt_bt.pdf,Le C
+Xác suất thống kê,MT1010,Sách & Giáo trình,Lý thuyết,Giáo trình XSTK,https://example.com/xstk.pdf,Pham D
+Xác suất thống kê,MT1010,Bài tập,Bài tập,Tổng hợp bài tập XSTK,https://example.com/xstk_bt.pdf,Pham D
+Cơ lý thuyết,ME1020,Sách & Giáo trình,Lý thuyết,Giáo trình Cơ lý thuyết,https://example.com/clt.pdf,Vo E
+Cơ lý thuyết,ME1020,Bài tập,Bài tập,Bài tập cơ bản Cơ lý thuyết,https://example.com/clt_bt.pdf,Vo E
+Hóa đại cương,CH1001,Sách & Giáo trình,Lý thuyết,Giáo trình Hóa ĐC,https://example.com/hoa_dc.pdf,Nguyen F
+Hóa đại cương,CH1001,Bài tập,Bài tập,Bài tập chương 1 & 2,https://example.com/hoa_dc_bt.pdf,Nguyen F
+Tin học đại cương,CS1001,Sách & Giáo trình,Lý thuyết,Giáo trình Tin học,https://example.com/thdc.pdf,Tran G
+Tin học đại cương,CS1001,Slide bài giảng,Lý thuyết,Slide Tin học tuần 1–10,https://example.com/thdc_slide.pdf,Tran G
+Cấu trúc dữ liệu và giải thuật,CS2001,Sách & Giáo trình,Lý thuyết,Giáo trình CTDL&GT,https://example.com/ctdlgt.pdf,Le H
+Cấu trúc dữ liệu và giải thuật,CS2001,Bài tập,Bài tập,101 bài tập CTDL&GT,https://example.com/ctdlgt_bt.pdf,Le H
+Mạng máy tính,CS3005,Sách & Giáo trình,Lý thuyết,Mạng máy tính – Giáo trình,https://example.com/mmc.pdf,Pham I
+Mạng máy tính,CS3005,Slide bài giảng,Lý thuyết,Mạng máy tính – Slide chương 1–5,https://example.com/mmc_slide.pdf,Pham I
+Điện tử cơ bản,EE2011,Sách & Giáo trình,Lý thuyết,Điện tử cơ bản – Giáo trình,https://example.com/dtcb.pdf,Hoang J
+Điện tử cơ bản,EE2011,Bài tập,Bài tập,Tổng hợp bài tập Điện tử cơ bản,https://example.com/dtcb_bt.pdf,Hoang J
+Kinh tế vi mô,EC1002,Sách & Giáo trình,Lý thuyết,Giáo trình Kinh tế vi mô,https://example.com/ktvm.pdf,Nguyen K
+Kinh tế vi mô,EC1002,Slide bài giảng,Lý thuyết,Slide bài giảng Kinh tế vi mô,https://example.com/ktvm_slide.pdf,Nguyen K
+Tư tưởng Hồ Chí Minh,SS1010,Sách & Giáo trình,Lý thuyết,Giáo trình Tư tưởng HCM,https://example.com/tthcm.pdf,Tran L
+Triết học Mác – Lênin,SS1011,Sách & Giáo trình,Lý thuyết,Giáo trình Triết học Mác - Lênin,https://example.com/thml.pdf,Tran L
+Ngoại ngữ chuyên ngành,EN2005,Sách & Giáo trình,Lý thuyết,ENESP - English for Engineering,https://example.com/enesp.pdf,Sarah T
+Ngoại ngữ chuyên ngành,EN2005,Tài liệu luyện tập,Bài tập,Practice Pack ENESP,https://example.com/enesp_practice.pdf,Sarah T

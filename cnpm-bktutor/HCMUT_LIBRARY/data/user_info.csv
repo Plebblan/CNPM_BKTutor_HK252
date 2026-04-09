@@ -1,0 +1,16 @@
+Code,Role,Last_name,First_name,Name,Status,Birthday,Phone_number,Email,Email_backup,Major,Thời điểm nhập học,Năm CTĐT,Đào tạo đến HK (tối đa),Bậc đào tạo,Major,Buổi học/giảng dạy,Cơ sở,User_ID
+2310201,student,Đặng Huyền,Vũ,Đặng Huyền Vũ,Active,28/02/2005,777777777,vufemboi@hcmut.edu.vn,capofan@gmaill.com,Khoa KH&KTMT,08/2023,2023,20282,Đại học,Khoa học Máy tính,Sáng,Cơ sở 2,1
+2310202,student,Phạm Xuân,Bắc,Phạm Xuân Bắc,Active,14/08/2004,933445566,bacbaoyu@hcmut.edu.vn,vitmuaxuan@gmail.com,Khoa CNTT,08/2023,2023,20282,Đại học,CNTT,Chiều,Cơ sở 1,2
+2310203,student,Nguyễn Phú,Thịnh,Nguyễn Phú Thịnh,Active,12/01/2004,977332211,thinh9pmulover@hcmut.edu.vn,hacbigbird@gmail.com,Khoa KTHH,08/2023,2023,20282,Đại học,Hóa học,Sáng,Cơ sở 1,3
+2310204,student,Phạm,Tuấn,Phạm Tuấn,Active,22/04/2005,911223344,tuanp@hcmut.edu.vn,phamtuantn@gmail.com,Khoa Cơ khí,08/2023,2023,20282,Đại học,Cơ khí,Chiều,Cơ sở 1,4
+2310205,student,Đỗ Bảo,Trân,Đỗ Bảo Trân,Active,11/11/2005,834432211,trandb@hcmut.edu.vn,tranbao@gmail.com,Khoa Điện — Điện tử,08/2023,2023,20282,Đại học,Điện — Điện tử,Tối,Cơ sở 1,5
+T2024001,tutor,Nguyễn Hứa,Phùng,Nguyễn Hứa Phùng,Active,17/03/1992,988112233,nhphung@hcmut.edu.vn,phungtutor@gmail.com,Bộ môn CNTT,2019,,,Sau đại học,Lập trình Web,Sáng,Cơ sở 1,6
+T2024002,tutor,Trương Minh,Thư,Trương Minh Thư,Active,29/06/1990,933447788,thu.tm@hcmut.edu.vn,minhthutr@gmail.com,Bộ môn KH Máy tính,2018,,,Sau đại học,Trí tuệ nhân tạo,Tối,Cơ sở 1,7
+T2024003,tutor,Phan Quốc,Hưng,Phan Quốc Hưng,Active,08/08/1988,912334455,hungpq@hcmut.edu.vn,hungquoc@gmail.com,Bộ môn Cơ khí,2016,,,Sau đại học,Cơ Điện tử,Sáng,Cơ sở 2,8
+T2024004,tutor,Lê Thị,Bích,Lê Thị Bích,Active,10/02/1989,903225566,bich.lt@hcmut.edu.vn,bichle@gmail.com,Bộ môn Hóa,2017,,,Sau đại học,Hóa phân tích,Chiều,Cơ sở 1,9
+2310206,student,Nguyễn,Tiến,Nguyễn Tiến,Active,19/05/2005,911122334,tienn@hcmut.edu.vn,tiennguyen@gmail.com,Khoa Điện — Điện tử,08/2023,2023,20282,Đại học,Điện tử viễn thông,Chiều,Cơ sở 2,10
+2310207,student,Bùi Thảo,Nghi,Bùi Thảo Nghi,Active,08/03/2004,988776655,nghibt@hcmut.edu.vn,buithao@gmail.com,Khoa CNTT,08/2023,2023,20282,Đại học,Khoa học dữ liệu,Sáng,Cơ sở 1,11
+2310208,student,Lê Nhật,Quân,Lê Nhật Quân,Active,25/10/2005,939122334,quanln@hcmut.edu.vn,nhatquan05@gmail.com,Khoa Cơ khí,08/2023,2023,20282,Đại học,Cơ khí chế tạo,Sáng,Cơ sở 1,12
+T2024005,tutor,Đặng Thế,Phong,Đặng Thế Phong,Active,12/10/1991,977112233,phongdt@hcmut.edu.vn,thephonggiang@gmail.com,Bộ môn Điện tử,2020,,,Sau đại học,Năng lượng — Điện tử,Tối,Cơ sở 2,13
+2310209,student,Hoàng,Khải,Hoàng Khải,Active,13/06/2005,903001122,kaih@hcmut.edu.vn,hoangk05@gmail.com,Khoa CNTT,08/2023,2023,20282,Đại học,An toàn thông tin,Chiều,Cơ sở 1,14
+2310210,student,Trịnh Ngọc,Hân,Trịnh Ngọc Hân,Active,01/11/2005,988322110,hantn@hcmut.edu.vn,hanngoc@gmail.com,Khoa KH&KTMT,08/2023,2023,20282,Đại học,Khoa học máy tính,Sáng,Cơ sở 1,15
